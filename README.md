@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/andrew-musselman-developer">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="mailto:andrew.mussels0@gmail.com">
+<a href="mailto:andrew.mussels@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   
 ### Languages || Frameworks: 
